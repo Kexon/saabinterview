@@ -8,7 +8,7 @@ namespace TicketManagementSystem
         I also added a UnknownTicketException as I thought that it was appropiate when trying to get a ticket that doesn't exist.
 
         I'm not sure if I managed to get all tests, but I definitely wanted to add some more. However, due to time constraints and my limited
-        knowledge of testing, I didn't get to.
+        knowledge of testing, I didn't manage to.
         Maybe a test for when we get an account manager that does not exist? Right now the code doesn't make use of the account manager,
         but for when it does 
 
